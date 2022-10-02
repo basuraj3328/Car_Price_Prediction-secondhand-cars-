@@ -1,0 +1,2 @@
+# Car_Price_Prediction-secondhand-cars-
+Objective: To help company to buy and sell car with Good Condition Introduction This dataset contains information about used cars listed on www.cardekho.com This data can be used for a lot of purposes such as price prediction to exemplify the use of linear regression in Machine Learning. Used Statistical techniques such as Hypothesis testing , ANOVA, Post hock test etc.
